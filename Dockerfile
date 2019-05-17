@@ -1,4 +1,4 @@
-FROM couchbase/server:enterprise-4.6.1
+FROM couchbase:enterprise-6.0.1
 
 ENV MEMORY_QUOTA 256
 ENV INDEX_MEMORY_QUOTA 256
